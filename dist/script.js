@@ -61,7 +61,7 @@ companyArrow3.addEventListener('click', () => {
 
 const menuContent2 = document.querySelector('#dP-2');
 companyArrow3.addEventListener('click', () => {
-  // Toggle the max-h-0 class to show/hide the features dropdown
+  // Toggles the max-h-0 class to show/hide the features dropdown
   menuContent2.classList.toggle('max-h-0');
 });
 
